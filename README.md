@@ -11,3 +11,4 @@ This is a theme I designed for myself but have given to a few friends and decide
 - Shows indicator if previous command failed
 - Shows a bright red "!" if you're logged in as root
 
+Probably more with time
